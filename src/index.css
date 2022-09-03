@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.buttonLogin {
+    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+}
